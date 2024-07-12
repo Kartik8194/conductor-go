@@ -27,7 +27,7 @@ To learn more about Conductor checkout our [developer's guide](https://docs.cond
 
 ```shell
 mkdir hello_world
-cd hello_world
+vvcd hello_world
 go mod init hello_world
 ```
 
